@@ -2,6 +2,9 @@ print("this is Leah's calc")
 
 print("")
 
+numberOfNum = int(input())
+
+
 print("input first number")
 num1 = int(input(""))
 
